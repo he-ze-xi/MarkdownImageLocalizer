@@ -34,7 +34,7 @@
 
 1. **运行程序**：
 
-   * Clone仓库：
+   * Clone仓库：https://github.com/Jesse-Blog/MarkdownImageLocalizer
    * 打开Visual Studio编译项目代码并启动控制台程序
 
 2. **输入路径**：
